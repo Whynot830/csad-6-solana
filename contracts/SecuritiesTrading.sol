@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: MIT
+// IKBO-16-21 Nurulla Amin
 pragma solidity ^0.8.0;
 
 contract SecuritiesTrading {
